@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.68h | 1 |
+| Week 1 | Tier 1 | 5.18h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-10 – # Making the schematics and PCB
 
-**4.68h**
+**5.18h**
 
 # Making the schematics and PCB
 
@@ -51,10 +51,12 @@ The other half was facing the **Design Rules Checker**. When I finally thought i
 
 I looked at mine and the guides copper connections and just wondered, how. HOW!! But  hey it's over, its behind us now (Right?!?!?)
 
-The extra hours I put was the time required for debugging when I would pause my Lapses and debug.
+The extra hours I put was the time required for debugging when I would pause my Lapses and debug and started on the Arduino.
 
 ## Now I have finished the hardware side, onto something I am more... confident in.
-I do have some prior knowledge with Arduino Code so am excited for that!
+I do have some prior knowledge with Arduino Code so am excited for that! So excited I have also downloaded it and installed all the libraries, took a really long time tho.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/26d405118a49dff285eaf46d8a56785782760b377ae977c99573fc01defb85cf.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/dddcc5db-5e7e-415e-bd71-47e91caf444c/video.mp4)
 
