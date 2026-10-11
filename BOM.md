@@ -19,7 +19,7 @@
 | [Cherry Push Buttons](https://core-electronics.com.au/cherry-mx2a-keyswitch-blue.html) | User Input Controls | 2 | $3.18 | $6.36 | [Core Electronics](https://core-electronics.com.au/cherry-mx2a-keyswitch-blue.html) |
 | [2.54mm Single Row Male Pin Header 1x8](https://www.lcsc.com/product-detail/Pin-Headers_ZHOURI-2-54-1-8_C5156616.html) | Pin Header Connector | 10 | $0.04 | $0.40 | [LCSC](https://www.lcsc.com/product-detail/Pin-Headers_ZHOURI-2-54-1-8_C5156616.html) |
 | **Parts subtotal** | — | — | — | **$13.55** | — |
-| **Tax & shipping** | — | — | — | **$6.80** | — |
-| **Total** | — | — | — | **$20.35** | — |
+| **Tax & shipping** | — | — | — | **$13.89** | — |
+| **Total** | — | — | — | **$27.44** | — |
 
-$9.65 left of the tier's funding.
+$2.56 left of the tier's funding.
