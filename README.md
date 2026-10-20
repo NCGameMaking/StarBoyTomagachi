@@ -1,7 +1,9 @@
 # StarBoyTomagachi
 
-<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/99a4dbc4-0e56-4d2e-ba7d-a86713356867" />
+<img width="1332" height="717" alt="image" src="https://github.com/user-attachments/assets/22d3e577-5c37-4003-9de6-8afc1a6d5cd3" />
 
+
+<img width="632" height="378" alt="image" src="https://github.com/user-attachments/assets/8e15b0aa-983f-4dcc-a16d-cf8e9043d260" />
 
 
 **This is Starbie, my first hardware project. Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.**
