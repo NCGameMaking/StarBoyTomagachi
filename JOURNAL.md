@@ -155,6 +155,6 @@ but then i realised, that wait, im in australia, im looking at Australian dollar
 
 But finally it's done!
 
-![Screenshot 2026-10-22 074730](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/6ae28c61515838ee654f655e0f9212b52d81897f4a378612a559d44dfe75a4d7.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/fbaa3269a7e9b68792121b5cb059fd64baeaa196d371e8e029d6086cb050c930.png)
 
 ![Screenshot 2026-10-22 075000](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/85ea7ac2612c4d0b3d3365b4c38a645e86ac3ffbc04ae467cfd75cda2d750376.png)
