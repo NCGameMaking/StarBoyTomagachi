@@ -123,15 +123,20 @@ But yeah, this might be the final journal before submission for week 1!
 
 # Sourcing the parts
 
-This entry was all about sourcing where I can find the cheapest parts to build my starbie. I looked literally everywhere, aliexpress, lscs compared them and found the cheapest possible parts. But the shipping costs, rahhhhhhhh! That's basically as much as the whole cart. I tried getting everything off the cheapest website, first i though it was going to be lcsc, but their shipping fee was TOO MUCH!! I went onto AliExpress, and guess what, NO SHIPPING FEE!! I bought almost everything from there other than the actual PCB.
+This entry was all about sourcing where I can find the cheapest parts to build my starbie. I looked literally everywhere, aliexpress, lscs compared them and found the cheapest possible parts. But the shipping costs, rahhhhhhhh! That's basically as much as the whole cart. I tried getting everything off the cheapest website, first i though it was going to be lcsc, but their shipping fee was TOO MUCH!! I went onto AliExpress, and guess what, NO SHIPPING FEE!! I bought almost everything from there other than the PCB itelf, i got that from JLCPCB.
 
-When I was buying from ALIEXPRESS, i lowkey felt like i was being scammed by the other ones.
+Just look at the screenshots, When i was on lcsc, I saw they charge for handling fees?!?! how dare they.
+Because with this, I was WAAY over the tier 1 limit. lowkey felt like i nearly got scammed.
 
-See the screenshots below, how dare they add a handling fee, om days. And look Aliexpress is nearly free! ha.
+But thanks to ALIEXPRESS, i am just under, phew!
 
-![Screenshot 2026-10-22 051840](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/ec52dac22987ff99fcf963a85df74e0d824f16d607cf0cdf0db6af07773fd93b.png)
+but then i realised, that wait, im in australia, im looking at Australian dollars, the BOM is asking for it in US dollars. then i went down this absolute rabbit whole of conversion stuff, my head started hurting.
 
-![Screenshot 2026-10-22 052354](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/287a2d982217ff7e2fc93bdb9dff6f720ac0cc88be61d7989fb4f7568e04a83b.png)
+But finally it's done!
+
+![Screenshot 2026-10-22 074730](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/6ae28c61515838ee654f655e0f9212b52d81897f4a378612a559d44dfe75a4d7.png)
+
+![Screenshot 2026-10-22 075000](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/85ea7ac2612c4d0b3d3365b4c38a645e86ac3ffbc04ae467cfd75cda2d750376.png)
 
 ### 2026-10-21 – # Sourcing the parts
 
