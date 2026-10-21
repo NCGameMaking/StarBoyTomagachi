@@ -14,7 +14,7 @@ Starbie is like a desk pet, it show the logo on a small display (I put a cute li
 Starbie is made up of a microcontroller, display, motion sensor, environmental sensor and 2 buttons all wrapped inside the star-shaped pcb board.
 
 ## Project status
-The PCB design, renders, and an Arduino starter firmware are included here. The default program is a cute duck with a tilt-controlled radial menu, hidden stats, and a shake reaction.
+The PCB design, renders, and an Arduino starter firmware are included here. The default program is a cute duck with a tilt-controlled radial menu, hidden stats, and a shake reaction. To make this this costs about $24.91 USD.
 
 ## Software
 Along with the XIAO ESP32-C3, there is a single Arduino sketch. It controls menu actions, starting values, and motion settings together at the top of the sketch.
