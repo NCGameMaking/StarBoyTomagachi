@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14.18h | 4 |
+| Week 1 | Tier 1 | 12.7h | 4 |
 
 ## Contents
 
 1. [2026-10-10 – # Making the schematics and PCB](#2026-10-10-making-the-schematics-and-pcb)
 2. [2026-10-11 – # Made the Arduino code, put some images on PCB and getting ready for submission](#2026-10-11-made-the-arduino-code-put-some-images-on-pcb-and-)
-3. [2026-10-21 – # Sourcing the parts](#2026-10-21-sourcing-the-parts)
+3. [2026-10-21 – please disregard this entry, i accidentally duplicated it, idk how to delete it](#2026-10-21-please-disregard-this-entry-i-accidentally-duplic)
 4. [2026-10-21 – # Sourcing the parts](#2026-10-21-sourcing-the-parts)
 
 ## Design
@@ -117,26 +117,18 @@ Then I just cloned it and put the repo folder in some  random ahh folder so buri
 
 But yeah, this might be the final journal before submission for week 1!
 
-### 2026-10-21 – # Sourcing the parts
+### 2026-10-21 – please disregard this entry, i accidentally duplicated it, idk how to delete it
 
-**1.5h**
+**0.02h**
 
-# Sourcing the parts
-
-This entry was all about sourcing where I can find the cheapest parts to build my starbie. I looked literally everywhere, aliexpress, lscs compared them and found the cheapest possible parts. But the shipping costs, rahhhhhhhh! That's basically as much as the whole cart. I tried getting everything off the cheapest website, first i though it was going to be lcsc, but their shipping fee was TOO MUCH!! I went onto AliExpress, and guess what, NO SHIPPING FEE!! I bought almost everything from there other than the PCB itelf, i got that from JLCPCB.
-
-Just look at the screenshots, When i was on lcsc, I saw they charge for handling fees?!?! how dare they.
-Because with this, I was WAAY over the tier 1 limit. lowkey felt like i nearly got scammed.
-
-But thanks to ALIEXPRESS, i am just under, phew!
-
-but then i realised, that wait, im in australia, im looking at Australian dollars, the BOM is asking for it in US dollars. then i went down this absolute rabbit whole of conversion stuff, my head started hurting.
-
-But finally it's done!
-
-![Screenshot 2026-10-22 074730](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/6ae28c61515838ee654f655e0f9212b52d81897f4a378612a559d44dfe75a4d7.png)
+please disregard this entry, i accidentally duplicated it, idk how to delete it
 
 ![Screenshot 2026-10-22 075000](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/85ea7ac2612c4d0b3d3365b4c38a645e86ac3ffbc04ae467cfd75cda2d750376.png)
+
+![Screenshot 2026-10-22 080348](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/397954303f830a6adef79565b2c7a48882f5e3dd315b7c8d9aff32c385a6a8da.png)
+
+.
+but do read entry #4
 
 ### 2026-10-21 – # Sourcing the parts
 
