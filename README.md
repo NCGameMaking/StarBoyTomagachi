@@ -6,12 +6,12 @@
 <img width="632" height="378" alt="image" src="https://github.com/user-attachments/assets/8e15b0aa-983f-4dcc-a16d-cf8e9043d260" />
 
 
-**This is Starbie, my first hardware project. Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.**
+**This is Starbie, my first hardware project. Starbie is a tiny digital pet: basically a desktop Tamagotchi. Instead of pressing controls, you interact with it by physically moving the board.**
 
 ## What it is
-Starbie is designed to sit on your desk, show the logo on a small display, and react to how you handle it. Tilting, moving, physically moving the pet is meant to be part of the experience.
+Starbie is like a desk pet, it show the logo on a small display (I put a cute lil duck on there), it also reacts to you tilting or physically moving the pet.
 
-The board includes a microcontroller, display, motion sensor, and environmental sensor all wrapped inside PCB design.
+Starbie is made up of a microcontroller, display, motion sensor, environmental sensor and 2 buttons all wrapped inside the star-shaped pcb board.
 
 ## Project status
 The PCB design, renders, and an Arduino starter firmware are included here. The default program is a cute duck with a tilt-controlled radial menu, hidden stats, and a shake reaction.
